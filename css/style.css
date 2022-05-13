@@ -16,7 +16,7 @@
 /* game */
 #game {
     display: flex;
-    width: 100%;
+    width:  calc(100vh - 130px);
     height: calc(100vh - 130px);
     flex-wrap: wrap;
     padding: 20px;
